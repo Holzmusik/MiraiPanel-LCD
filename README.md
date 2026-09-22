@@ -1,6 +1,6 @@
 # MiraiPanel-LCD
 
-Firmware (ESPHome/ESP-IDF) für das MiraiPanel — ESP32-P4-Touchdisplay für
+Firmware für das MiraiPanel — ESP32-P4-Touchdisplay für
 Loxone-Hausautomation.
 
 Teil der [MiraiPanel](https://github.com/Holzmusik/MiraiPanel)-Projektfamilie
